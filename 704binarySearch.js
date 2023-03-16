@@ -3,7 +3,7 @@
  * @param {number} target
  * @return {number}
  */
-const nums1=[-1,0,3,5,9,12];
+const nums1=[-1,0,3,5,9,12,39];
 const target1=9;
 var search = function(nums, target) {
     let indexL=0;
